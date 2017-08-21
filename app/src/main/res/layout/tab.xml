@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/current_tab"
+    android:gravity="center"
+    android:background="@color/tab_backgr"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/tab_iv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        app:srcCompat="@drawable/list" />
+
+    <TextView
+        android:id="@+id/tab_tv"
+        android:textStyle="bold"
+        android:textSize="14sp"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:text="TextView" />
+</LinearLayout>

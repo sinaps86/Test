@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Вкладки</string>
+
+    <string name="main_lang_btn">ру</string>
+    <string-array name="langs">
+        <item>Английский</item>
+        <item>Русский</item>
+    </string-array>
+
+    <string name="dialog_lang_title">Выбирите язык</string>
+    <string name="dialog_lang_ok_btn">Ок</string>
+    <string name="dialog_lang_cancel_btn">Отмена</string>
+
+    <string name="list_title">Список стран</string>
+    <string name="list_add_btn">Добавить</string>
+
+    <string name="main_list_tab">Список</string>
+    <string name="main_scaling_tab">Зумер</string>
+    <string name="main_parsing_tab">Парсер</string>
+    <string name="main_maps_tab">Карта</string>
+
+    <string name="list_dialog_add_title">Добавить страну:</string>
+    <string name="list_dialog_edit_title">Редактирование:</string>
+    <string name="list_dialog_hint">Enter country:</string>
+    <string name="list_dialog_message">Страна:</string>
+    <string name="list_dialog_ok_btn">Подтвердить</string>
+    <string name="list_dialog_cancel_btn">Вернуться</string>
+    <string name="list_dialog_context_edit">Редактировать</string>
+    <string name="list_dialog_context_delete">Удалить</string>
+
+    <string name="list_dialog_save_ok_btn">Ок</string>
+    <string name="list_dialog_save_cancel_btn">Отмена</string>
+    <string name="list_dialog_save_title">Сохранить?</string>
+    <string name="list_dialog_save_message">Сохранить данные?: </string>
+
+    <string name="parser_wait_dialor_message">Загрузка...</string>
+    <string name="parser_download_btn">Загрузить</string>
+    <string name="parser_download_fail_connect_message">Подключение не удалось</string>
+
+    <string name="scaler_gallery_btn">Из галереи</string>
+    <string name="scaler_photo_btn">Сделать фото</string>
+
+    <string name="google_android_map_api_key"  templateMergeStrategy="preserve" translatable="false">AIzaSyBx96pdHryYW_pqE9qensXtSnTxGe6xLw8</string>
+    <string name="title_activity_maps">Карта</string>
+    <string name="map_lat">Широта:</string>
+    <string name="map_lon">Долгота:</string>
+    <string name="map_marker_title">Вы здесь </string>
+</resources>

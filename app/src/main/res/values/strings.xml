@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Tabs</string>
+
+    <string name="main_lang_btn">en</string>
+    <string-array name="langs">
+        <item>English</item>
+        <item>Russian</item>
+    </string-array>
+
+    <string name="dialog_lang_title">Choose languege</string>
+    <string name="dialog_lang_ok_btn">Ok</string>
+    <string name="dialog_lang_cancel_btn">Cancel</string>
+
+    <string name="list_title">Country list</string>
+    <string name="list_add_btn">Add</string>
+
+    <string name="main_list_tab">List</string>
+    <string name="main_scaling_tab">Scal.</string>
+    <string name="main_parsing_tab">Pars.</string>
+    <string name="main_maps_tab">Maps</string>
+
+    <string name="list_dialog_add_title">Add country:</string>
+    <string name="list_dialog_edit_title">Edit country:</string>
+    <string name="list_dialog_hint">Enter country:</string>
+    <string name="list_dialog_message">Country:</string>
+    <string name="list_dialog_ok_btn">Confirm</string>
+    <string name="list_dialog_cancel_btn">Return</string>
+    <string name="list_dialog_context_edit">Edit</string>
+    <string name="list_dialog_context_delete">Delete</string>
+
+    <string name="list_dialog_save_ok_btn">Ok</string>
+    <string name="list_dialog_save_cancel_btn">Cancel</string>
+    <string name="list_dialog_save_title">Save?</string>
+    <string name="list_dialog_save_message">Save this data?: </string>
+
+    <string name="parser_wait_dialor_message">Downloading...</string>
+    <string name="parser_download_btn">Download</string>
+    <string name="parser_download_fail_connect_message">Connection fail</string>
+
+    <string name="scaler_gallery_btn">From Gallery</string>
+    <string name="scaler_photo_btn">Take a photo</string>
+
+    <string name="google_android_map_api_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBx96pdHryYW_pqE9qensXtSnTxGe6xLw8</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="map_lat">Latitude:</string>
+    <string name="map_lon">Longitude:</string>
+    <string name="map_marker_title">You are here</string>
+</resources>
